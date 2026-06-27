@@ -1,51 +1,43 @@
-<div align="center">
-
 # StudentSuite
 
-### Open-source tools that help students plan less and learn more.
+**Open-source tools that make student life easier.**
 
-[![Made for students](https://img.shields.io/badge/built%20for-students-2563eb)](https://github.com/studentsuite)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/studentsuite)
+StudentSuite is a collection of free, open-source projects built around one idea: students deserve better tools. Some of what we build is shaped by the realities of rigorous programs like IGCSE and IB, but everything here is open to any student, anywhere.
 
-</div>
+Two projects anchor the suite today, with more on the way.
 
 ---
-
-## What we build
-
-StudentSuite is a collection of free, open-source tools for students. No subscriptions, no walled gardens, no selling your data. Built by a student who got tired of duct-taping a workflow together from five different tools.
-
-Each project solves one real student problem: finding a place to study, getting more out of AI tools, staying on top of your work. All free, all open.
 
 ## Projects
 
-| Project | What it does | Status |
-|---------|--------------|--------|
-| **StudyMap** | Crowdsourced map of study spots, libraries, and test centres for students. | ✅ Live |
-| **awesome-claude-skills-for-students** | A curated list of Claude skills that actually help students study, research, and stay organised. | 🚧 Coming soon |
+### 🗺️ StudyMap
+A curated map of the places every student should know: study spots, exam centres, libraries, and resources that actually matter, vetted and organized so you spend less time searching and more time studying. Built to grow as the community adds to it.
 
-> Browse the repos below to see what's shipping now.
+➡️ **[Explore StudyMap](https://github.com/StudentSuite/StudyMap)**
 
-## Why it exists
+### 🧩 Skills & Plugins for Students
+A growing, community-curated collection of skills, plugins, and configs for AI coding tools (Claude Code, Cursor, Copilot, VS Code, and more), organized by what you're trying to do. Copy a folder, drop it into your editor, done. No lock-in, no setup tax. Useful for any student who codes, not just IGCSE or IB.
 
-- **Built around real student workflows**, not generic productivity templates.
-- **Free and open.** Students shouldn't pay a subscription to stay organised. MIT-licensed, fork it, self-host it, remix it.
-- **Built in the open.** Features shaped by people actually doing the work.
-
-## Get involved
-
-- 🐛 **Found a bug or want a feature?** Open an issue on the relevant repo.
-- 🛠️ **Want to contribute?** Look for `good first issue` labels. PRs welcome.
-- 💬 **Just following along?** Star the repos to get updates.
-
-New to open source and still in school? This is a friendly place to start. Read a repo's `CONTRIBUTING.md` and say hi in the issues.
+➡️ **[Browse the collection](https://github.com/StudentSuite/awesome-plugins-and-skills-for-students)**
 
 ---
 
-<div align="center">
+## Why StudentSuite
 
-**Plan less. Learn more.**
+Good student tools are scattered, locked behind paywalls, or never built at all. We build them in the open, keep them free, and let the people who actually use them shape what comes next.
 
-Made by students, for students.
+Everything here is **MIT-licensed and free, forever.**
 
-</div>
+---
+
+## Contribute
+
+The suite gets better when students build it together.
+
+- ⭐ **Star** the repos so other students find them.
+- 🧩 **Add a skill or a place**: copy the template, fill it in, open a pull request.
+- 🐛 **Open an issue** with an idea, a fix, or something we're missing.
+
+You don't need to be an expert. If you solved a problem worth sharing, it belongs here.
+
+> Built by students, for students. If it would've helped you last term, it probably belongs in StudentSuite.
