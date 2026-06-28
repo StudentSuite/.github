@@ -57,6 +57,6 @@ You don't need to be an expert. If you solved a problem worth sharing, it belong
 
 <br>
 
-**`#4F46E5`** indigo · **`#14B8A6`** teal · MIT licensed
+
 
 </div>
