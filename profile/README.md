@@ -6,8 +6,6 @@
   <img src="./logo-lockup.svg" alt="StudentSuite" width="440">
 </picture>
 
-# StudentSuite
-
 ### Open-source tools that help students plan less and learn more.
 
 Free, open tools built around one idea: students deserve better software.
