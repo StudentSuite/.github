@@ -1,4 +1,4 @@
-<!-- Social preview: upload public/og-image.png as repo Social Preview (Settings > General). Org avatar: upload avatar-512.png in Org Settings > Profile. -->
+
 <div align="center">
 
 <picture>
@@ -12,9 +12,9 @@ Free, open tools built around one idea: students deserve better software.
 Shaped by rigorous programs like IGCSE and IB, but open to any student, anywhere.
 
 [![Built for students](https://img.shields.io/badge/built%20for-students-4F46E5)](https://github.com/studentsuite)
-[![License: MIT](https://img.shields.io/badge/license-MIT-14B8A6)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-14B8A6)](https://github.com/StudentSuite/StudyMap/blob/main/LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-4F46E5)](#contribute)
-[![Instagram](https://img.shields.io/badge/instagram-%40studentsuite-E4405F?logo=instagram&logoColor=white)](https://instagram.com/student.suite)
+[![Instagram](https://img.shields.io/badge/instagram-%40student.suite-E4405F?logo=instagram&logoColor=white)](https://instagram.com/student.suite)
 
 </div>
 
@@ -33,9 +33,14 @@ A growing, community-curated collection of skills, plugins, and configs for AI c
 ➡️ **[Browse the collection](https://github.com/studentsuite/awesome-skills-plugins-for-students)**
 
 ### 📚 Awesome Student Resources
-A curated list of the best software, tools, textbooks, channels, and resources for students, organized by subject and by what you're trying to get done. Free, freemium, paid, and open-source picks, each labelled so you know before you click. Shaped by IB, IGCSE, and SAT, open to any student anywhere.
+A curated list of the best software, tools, textbooks, channels, and resources for students. This list covers life around school: discounts, money, career prep, and wellbeing.
 
 ➡️ **[Browse the list](https://github.com/studentsuite/awesome-student-resources)**
+
+### 📖 Awesome Study Resources
+A curated list of exam, curriculum, and subject-study resources for students.
+
+➡️ **[Browse the list](https://github.com/studentsuite/awesome-study-resources)**
 
 ---
 
@@ -52,7 +57,7 @@ Everything here is **MIT-licensed and free, forever.**
 The suite gets better when students build it together.
 
 - ⭐ **Star** the repos so other students find them.
-- 🧩 **Add a skill or a place**: copy the template, fill it in, open a pull request.
+- 🧩 **Add a skill or a place**: see the CONTRIBUTING.md in each repo, then open a pull request.
 - 🐛 **Open an issue** with an idea, a fix, or something we're missing.
 
 You don't need to be an expert. If you solved a problem worth sharing, it belongs here.
