@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or general feedback
+    url: mailto:studentsuite3@gmail.com
+    about: Ask a question or send feedback by email.
+  - name: Security vulnerability
+    url: https://github.com/StudentSuite/.github/blob/main/SECURITY.md
+    about: Report security problems privately. Do not open a public issue.
