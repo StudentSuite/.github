@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <picture>
@@ -27,20 +26,30 @@ A curated map of the places every student should know: study spots, exam centres
 
 ➡️ **[Explore StudyMap](https://github.com/studentsuite/StudyMap)**
 
+### 🔬 Pepiros
+Turn a research PDF into a knowledge graph where every generated claim stays bound to a located quote, not a vector-similarity guess, and hand that grounding to Claude as a callable MCP service.
+
+➡️ **[Explore Pepiros](https://github.com/StudentSuite3/pepiros)**
+
 ### 🧩 Skills & Plugins for Students
 A growing, community-curated collection of skills, plugins, and configs for AI coding tools (Claude Code, Cursor, Copilot, VS Code, and more), organized by what you're trying to do. Copy a folder, drop it into your editor, done. No lock-in, no setup tax. Useful for any student who codes.
 
 ➡️ **[Browse the collection](https://github.com/studentsuite/awesome-skills-plugins-for-students)**
 
 ### 📚 Awesome Student Resources
-A curated list of the best software, tools, textbooks, channels, and resources for students. This list covers life around school: discounts, money, career prep, and wellbeing.
+A curated list of the best software, tools, textbooks, channels, and resources for students, organized by subject and by what you're trying to get done. Free, freemium, paid, and open-source picks, each labelled so you know before you click. Shaped by IB, IGCSE, and SAT, open to any student anywhere.
 
 ➡️ **[Browse the list](https://github.com/studentsuite/awesome-student-resources)**
 
-### 📖 Awesome Study Resources
-A curated list of exam, curriculum, and subject-study resources for students.
+### 🎓 Awesome Study Resources
+Curated exam prep, subject-study, and learning-tool resources, split out from Awesome Student Resources to keep both lists focused. Free, freemium, and paid picks, each labelled so you know before you click.
 
 ➡️ **[Browse the list](https://github.com/studentsuite/awesome-study-resources)**
+
+### 📝 Awesome SAT Resources
+A curated list of free SAT practice tests, official question banks, video lessons, vocab, and communities. Sister list to Awesome Study Resources, kept separate so SAT prep stays easy to find.
+
+➡️ **[Browse the list](https://github.com/studentsuite/awesome-sat-resources)**
 
 ---
 
@@ -57,7 +66,7 @@ Everything here is **MIT-licensed and free, forever.**
 The suite gets better when students build it together.
 
 - ⭐ **Star** the repos so other students find them.
-- 🧩 **Add a skill or a place**: see the CONTRIBUTING.md in each repo, then open a pull request.
+- 🧩 **Add a skill or a place**: copy the template, fill it in, open a pull request.
 - 🐛 **Open an issue** with an idea, a fix, or something we're missing.
 
 You don't need to be an expert. If you solved a problem worth sharing, it belongs here.
