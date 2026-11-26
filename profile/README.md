@@ -26,11 +26,6 @@ A curated map of the places every student should know: study spots, exam centres
 
 ➡️ **[Explore StudyMap](https://github.com/studentsuite/StudyMap)**
 
-### 🔬 Pepiros
-Turn a research PDF into a knowledge graph where every generated claim stays bound to a located quote, not a vector-similarity guess, and hand that grounding to Claude as a callable MCP service.
-
-➡️ **[Explore Pepiros](https://github.com/StudentSuite3/pepiros)**
-
 ### 🧩 Skills & Plugins for Students
 A growing, community-curated collection of skills, plugins, and configs for AI coding tools (Claude Code, Cursor, Copilot, VS Code, and more), organized by what you're trying to do. Copy a folder, drop it into your editor, done. No lock-in, no setup tax. Useful for any student who codes.
 
